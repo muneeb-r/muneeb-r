@@ -3,8 +3,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneeb-r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img style="margin-left: 10px;" src="https://streak-stats.demolab.com?user=muneeb-r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+![muneeb-r's Stats](https://github-readme-stats.vercel.app/api?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![muneeb-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muneeb-r&theme=dark&hide_border=true)
+  ![muneeb-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ###
@@ -12,7 +13,6 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5rOWtjdzJlMnhwNzZyZWF0dTVmZmZ6ZG41ODZ6cjQ4c2VmcDB6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-![muneeb-r's Stats](https://github-readme-stats.vercel.app/api?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
