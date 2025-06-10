@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5rOWtjdzJlMnhwNzZyZWF0dTVmZmZ6ZG41ODZ6cjQ4c2VmcDB6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-
+![muneeb-r's Stats](https://github-readme-stats.vercel.app/api?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&count_private=true)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
