@@ -3,9 +3,15 @@
 ###
 
 <div align="left">
-![muneeb-r's Stats](https://github-readme-stats.vercel.app/api?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  <span>
+  ![muneeb-r's Stats](https://github-readme-stats.vercel.app/api?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  </span>
+    <span>
   ![muneeb-r's Streak](https://github-readme-streak-stats.herokuapp.com/?user=muneeb-r&theme=dark&hide_border=true)
+        </span>
+     <span>
   ![muneeb-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneeb-r&theme=dark&show_icons=true&hide_border=true&layout=compact)
+    </span>
 </div>
 
 ###
