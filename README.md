@@ -1,15 +1,12 @@
 <h2 align="center">Hi! I'm Muneeb Rana, from planet Earth 🌍</h2>
 
 <p align="center">
-  <a href="https://www.muneebrana.info">
-    <img
-      src="https://image.thum.io/get/width/1200/https://www.muneebrana.info/"
-      alt="Portfolio Preview"
-      width="800"
-    />
-  </a>
+  💻 Full Stack Developer | 📱 React Native | 🤖 AI RAG & Agentic AI
 </p>
 
+<p align="center">
+  🚀 <a href="https://www.muneebrana.info">Explore My Portfolio</a> 🌐
+</p>
 
 ---
 
