@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 <a href="https://www.muneebrana.info">Explore My Portfolio</a> 🌐
+  🚀 <a href="https://www.muneebrana.info" target="_blank">Explore My Portfolio</a> 🌐
 </p>
 
 ---
