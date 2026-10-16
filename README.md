@@ -1,5 +1,7 @@
 <h2 align="center">Hi! I'm Muneeb Rana, from planet Earth 🌍</h2>
-![Portfolio Preview](https://www.muneebrana.info)
+
+[![Portfolio Preview](./assets/preview.png)](https://www.muneebrana.info)
+
 
 
 ---
